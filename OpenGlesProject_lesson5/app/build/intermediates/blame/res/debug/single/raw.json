@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android_space\\OpenGlesProject\\OpenGlesProject_lesson5\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "D:\\android_space\\OpenGlesProject\\OpenGlesProject_lesson5\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\android_space\\OpenGlesProject\\OpenGlesProject_lesson5\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\android_space\\OpenGlesProject\\OpenGlesProject_lesson5\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    }
+]

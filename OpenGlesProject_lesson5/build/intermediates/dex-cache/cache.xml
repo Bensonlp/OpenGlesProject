@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_0e9389bec3a99fa2489e0fe492fc8b5e9eb1d530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pangrui1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d805272489a01abd76621046f0e503011fe9fbff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_d34757aaeb031a1702501bc87feb279ced0273d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_8b459a95c77ce86245632efa88bd199a0cb42e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_123cc6b32324d64b5e32ce671859852275cfa0a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_2937f5634c6fca00824c129333d93a1628c4857c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_3dd4fa453e6db9a5bc94afe296475e641c8ea960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_29f1561883679da987bb0520c8c7b83d6f7080ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_f822a27e02b91cdda1c8f5c372b036b17d1036b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\android_space\OpenGlesProject\OpenGlesProject_lesson5\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_270cd295efc459f9265f11a68b6031090b0fbb5f.jar" />
+    </item>
+
+</items>
